@@ -10,5 +10,5 @@
   以下のURLをuBlacklistに適当な名前をつけて購読してください。
 
   ``` 購読リスト
-
+  [https://raw.githubusercontent.com/atsushifx/ublacklist-denylist/main/denylist.txt](https://raw.githubusercontent.com/atsushifx/ublacklist-denylist/main/denylist.txt)
   ```

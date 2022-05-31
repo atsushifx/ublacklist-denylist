@@ -2,7 +2,7 @@
 
 ## これはなに
 
-  [https://iorate.github.io/ublacklist/](uBlacklist)向けのURLフィルタリストです。
+  [uBlacklist](https://iorate.github.io/ublacklist/)向けのURLフィルタリストです。
   主に、日本のプログラミングスクールや転職エージェント企業などの技術ブログを載せています。
 
 ## 購読リスト

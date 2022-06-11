@@ -1,6 +1,6 @@
-*://*.?sejuku.net/*
-*://*.?techacademy.jp/*
+*://*.sejuku.net/*
+*://*.techacademy.jp/*
 /.*udemy.*/
 *://udemy*.*/
-*://and-engineer.*/
-*://tech-camp.in/note/
+*://tech-camp.in/note/*
+

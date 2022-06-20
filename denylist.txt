@@ -4,6 +4,9 @@
 ! Homepage: https://github.com/atsushifx/ublacklist-denylist]
 ! License: MIT
 
+! プログラミングスクール
 *://*.sejuku.net/*
 *://*.techacademy.jp/*
 
+! 技術ブログ
+*://skillhub.jp/*

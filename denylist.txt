@@ -1,6 +1,9 @@
+! Title: uBlacklist Rules by atsushifx
+! Description: tech schools articles deny list
+! Expires: 
+! Homepage: https://github.com/atsushifx/ublacklist-denylist]
+! License: MIT
+
 *://*.sejuku.net/*
 *://*.techacademy.jp/*
-/.*udemy.*/
-*://udemy*.*/
-*://tech-camp.in/note/*
 

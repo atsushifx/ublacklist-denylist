@@ -7,6 +7,14 @@
 ! プログラミングスクール
 *://*.sejuku.net/*
 *://*.techacademy.jp/*
+*://*udemy*/*
 
-! 技術ブログ
+! (使えないと思う)技術系ブログ
 *://skillhub.jp/*
+*://*.eng-entrance.com/*
+
+
+! アフィリエイト系
+*://*.it-afi.com/*
+
+

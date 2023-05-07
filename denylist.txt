@@ -1,7 +1,7 @@
 ! Title: uBlacklist Rules by atsushifx
 ! Description: tech schools articles deny list
 ! Expires:
-! Homepage: https://github.com/atsushifx/ublacklist-denylist]
+! Homepage: https://github.com/atsushifx/ublacklist-denylist
 ! License: MIT
 
 ! Programming School

@@ -15,6 +15,7 @@
 *://crx7601.com/*
 *://blog.esuteru.com/*
 *://tsuisoku.com/*
+*://femimatsu.com/*
 
 ! (Unuseable) blog
 *://skillhub.jp/*

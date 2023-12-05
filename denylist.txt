@@ -1,29 +1,20 @@
-! Title: uBlacklist Rules by atsushifx
-! Description: tech schools articles deny list
-! Expires:
-! Homepage: https://github.com/atsushifx/ublacklist-denylist
-! License: MIT
-
-! Programming School
 *://*.sejuku.net/*
 *://*.techacademy.jp/*
 *://*udemy*/*
 *://*.codecamp.jp/
 
-! [matome site]
 *://jin115.com/*
 *://crx7601.com/*
 *://blog.esuteru.com/*
 *://tsuisoku.com/*
 *://femimatsu.com/*
+*://*.tsumanne.net/*
+*://*.yaraon-blog.com/*
 
-! (Unuseable) blog
 *://skillhub.jp/*
 *://*.eng-entrance.com/*
 *://*.wakuwakubank.com/*
 
-
-! affiliate site
 *://*.it-afi.com/*
 
 

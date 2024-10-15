@@ -1,3 +1,6 @@
+---
+name: atsushifx's private denylist
+---
 *://*.sejuku.net/*
 *://*.techacademy.jp/*
 *://*udemy*/*
@@ -16,5 +19,3 @@
 *://*.wakuwakubank.com/*
 
 *://*.it-afi.com/*
-
-
